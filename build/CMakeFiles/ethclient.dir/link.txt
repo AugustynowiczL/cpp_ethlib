@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ethclient.dir/main.cpp.o -o ethclient  utils/libutils.a rpc/librpc.a types/libtypes.a utils/libutils.a /usr/lib/x86_64-linux-gnu/libcurl.so 

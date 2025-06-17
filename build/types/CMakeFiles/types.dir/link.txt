@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtypes.a CMakeFiles/types.dir/Transaction.cpp.o
+/usr/bin/ranlib libtypes.a

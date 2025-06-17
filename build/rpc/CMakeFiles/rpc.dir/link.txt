@@ -1,0 +1,2 @@
+/usr/bin/ar qc librpc.a CMakeFiles/rpc.dir/EthereumRpcClient.cpp.o
+/usr/bin/ranlib librpc.a
